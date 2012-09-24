@@ -14,7 +14,7 @@ Cityscape was created using Keyamoon's <a href="http://icomoon.io/app">IcoMoon</
 <h2>UTF-8 Codes</h2>
 <table>
 <tr><th>Character</th><th>Code</th></tr>
-<tr><td><img src="http://www.fireflywebz.com/cityscape/buildings01.svg" width="20" height="20" /></td><td>&amp;#xe000;</td></tr>
+<tr><td><img src="http://www.fireflywebz.com/cityscape/buildings10.svg" width="20" height="20" /></td><td>&amp;#xe000;</td></tr>
 </table>
 <h2>License</h2>
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
